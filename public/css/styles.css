@@ -1,0 +1,63 @@
+ul.option_test li {
+  display: list-item;
+  list-style: upper-alpha;
+}
+
+.container-login {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100vh;
+}
+
+.logo-header {
+	width: 60px;
+}
+
+.box-kartu {
+	width: 360px;
+	height: 320px;
+	border: 1px solid #000;
+	padding: 2px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.box-info {
+	width: 300px;
+	position: relative;
+}
+
+.box-foto {
+	width: 76;
+	height: 113px;
+	border: 1px solid #000;
+	float: left;
+	margin-left: 50px;
+	margin-top: 5px;
+}
+
+.item-foto {
+	margin-top: 40px;
+}
+
+.box-foto h3{
+	justify-content: center;
+	align-items: center;
+}
+
+.text-table {
+	font-size: 12px;
+}
+
+.divtable {
+	float: left;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+table.mapel-table {
+	font-size: 12px;
+}
